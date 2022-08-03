@@ -1,0 +1,1 @@
+print("partner's file")
